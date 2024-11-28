@@ -49,9 +49,7 @@ El proyecto abarcará el desarrollo de una plataforma digital con los siguientes
 - **Toma de decisiones basada en datos**: Generación de reportes con información actualizada y precisa que facilita la toma de decisiones estratégicas.
 
 ## Tecnologías Utilizadas
-- **Frontend**: React.js / Angular (dependiendo de la elección tecnológica)
-- **Backend**: Node.js / Django / Laravel (dependiendo de la arquitectura elegida)
-- **Base de Datos**: MySQL / PostgreSQL
-- **Generación de Reportes**: JasperReports / ReportLab
-- **Control de Versiones**: Git / GitHub / GitLab
+- **Base de Datos**: Supabase / PostgreSQL
+- **Generación de Reportes**: Excel
+
 
